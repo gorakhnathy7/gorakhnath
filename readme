@@ -1,0 +1,95 @@
+<h1><img src="https://slackmojis.com/emojis/781-camera/download" width="30" />
+    Hey there!</h1>
+    
+<span style="margin:20px" >
+	<img src="https://slackmojis.com/emojis/39101-namaste/download" width="80" height="80" />
+</span>    
+
+
+<p>Welcome to my profile! </br> This is Gorakhnath Yadav from Gorakhpur, <img
+        src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-128.png"
+        width="35" margin-top="3px"/> <b> India</b>
+	</p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=gorakhnathy7&color=blueviolet" alt="Gorakh's Profile Views" />
+</p>
+
+### About me:
+- 👨‍🎓 I am a final year student in Information Technology at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.
+- 🔭 I’m currently working on MERN stack applications
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on projects
+- ⚡ I like hindi Poetry and shayaris.        
+
+
+
+
+### Connect with me:
+
+[<img align="left" alt="Gorakhnath Yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gorakhnath Yadav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gorakhnath Yadav | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Gorakhnath Yadav | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+
+<br />
+
+        
+        
+<h3>Languages and Tools:</h3>
+<p>
+    <img alt="Python" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-128.png"
+        height="40" width="40">
+    <img alt="JavaScript" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img alt="CPP"
+        src="https://cdn.worldvectorlogo.com/logos/c.svg"
+        height="40" width="40">
+    <img alt="React" src="https://image.flaticon.com/icons/png/128/753/753244.png" height="40" width="40">
+    <img alt="Node.js" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    <img alt="MongoDB" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+    <img alt='ExpressJS' width="40" height="40"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7RVaKE0ubjH_Ioi90MHiDzKw-GpNI1BsHw&usqp=CAU" />
+    <img alt="C"
+        src="https://cdn0.iconfinder.com/data/icons/mobile-device/512/letter-c-round-alphabet-latin-keyboard-2-128.png"
+        height="40" width="40">
+    <img alt="Bootstrap" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+    <img alt="TailwindCss"
+        src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
+        height="40" width="40">
+    <img alt="HTML5" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img alt="CSS3" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img alt="Visual Studio Code" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img alt="Git" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    <img alt="GitHub" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+    <img alt="terminal" width="40" height="40"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    
+    <img  alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+<img  alt="Laravel" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+<img  alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img  alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+</p>
+
+
+<a href="https://github.com/gorakhnathy7">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorakhnathy7&show_icons=true&include_all_commits=true&theme=solarized-dark" alt="Gorakh's github stats" />
+  </a>
+  <a href="https://github.com/gorakhnathy7">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorakhnathy7&layout=compact&theme=solarized-dark" />
+  </a>
+
+
+<!-- links section   -->
+
+[linkedin]: https://www.linkedin.com/in/gorakhnathyadav7/
+[email]: mailto:gorakhcodes@gmail.com
